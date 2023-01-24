@@ -33,7 +33,7 @@ def update_background(obj1, obj2, obj_speed):
    
 pygame.init()
 screen = pygame.display.set_mode(WINDOW_SIZE)
-pygame.display.set_caption("Runner")
+pygame.display.set_caption("Anya Run")
 start_time = 0
 
 # clock object from pygame to control FPS, called in the game loop
